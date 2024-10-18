@@ -1,3 +1,5 @@
+//stacks in Basic forms 
+
 #include <stdio.h>
 
 #define MAXSTK 10  // Define the maximum stack size
