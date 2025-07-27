@@ -1,5 +1,6 @@
 # DSA_WITH_C
  hello there!
+In this repository I have collected my personal notes about the practicals for an B. Tech student in Computer Science.
   here are the few collection of c programs
 C programs defining different DATA STRUCTURES and there functionality are given as follows : 
 <br>
